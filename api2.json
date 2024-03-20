@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "friends2-415115",
+  "private_key_id": "d60bdcc008ce8ed27961784a16ca78ac83ed2901",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeMxewtEfFHM2N\ngHnqm0bAkULK1hA4NSjK0uA3O8YxmyF5xrmLQvJ4uFiIMjT+l1MMZYUPATxaBjya\nno4/YzLfWlrEn0afS7l5Kmz+ij0PRr541WKTQNLvKJnt2o2klNrp0WPJ+tRdOZ3u\n+K8xsQxFxkQtpLfJaDEcpnWhqKUD4wJr0Y0z5HH2RioAi1+XllSPmfqmeGpiKOqL\nAwsC14N5o/35cNTIY/GPscPQzvCtgVnYWNjn4a5JL2cDHJFrj8kC7tb62ZdgKs0x\n6/39Up3KOUrnJlDGjaKr4+BVYVxquO+s8bbsrbBrsVIkeNs8yHcB8v2LO77pFj2D\nl7FD1765AgMBAAECggEADlClWJLXbYQEXCGS+SyFcOI1jDghSwsQXzdvDtqQ02D8\nAEqaE+DoGniUlOWt01nFaxmJP8+5EdBattgQhatAO50obDLEtn4xlfRH7wLR7zou\ntZMtwBs027KLxC6d4c9d5ngWdoyXLOW0M+adRtVyBcwXArJyIrgjMzDS3ZYuAg4k\nZmu6c1tsmmAArJrvUQBV7rE+rPV7/KViDAu3EnnHgx0n20nv+KubhyrPYn2vMxdh\n8CcTGJI1kEsKU0DfUW23qL7Q7XAGIsKCEd98TwZNSLqzXv8CLM9Wid30S5c1Kkjd\nVAUEMOnm3Gw93tIJQyaJrOm66fzq+GjNczIX4sYkGQKBgQD03ULGsvs8tmEIBxYz\n/JKvOJOiUR21+w2dbEcK2eS32LLd8v/k1IKuvM1oeEhgo7evnEcSfaj8W3BUhKpb\nz89N3NPj2w0gOdpFmoPI2wncqZZzbVaJGUIzhECUpdf6JI2yK1yapCF02v5WEgoF\nusr4QaC+5PZD3PA64OX/97rCDQKBgQDoTfdiWAMMx5BOFotlmBrSUT5titpJ4kyf\nxCyT46eU6hhD3L0TZ+zuS7OlSfg8nyaP5dlz5UGhULZard5vEdTOyyC9XkscphQW\n6dLEnqzHc5oyDHVWH53AeHtCIiRLUKqnAOEkDG9s/cKuRuK3udhB1sLPIiIibwDM\n90N302xAXQKBgF/MUNu8Gl7eW4fwfddI8XpsABZ49c7EscbtHb45ESp8NT5wW30D\nRz1l0FcW9/oXEz45PfUWBI72lzP500yoOMqVorB6euAowiSJFxX13B3gm2P9WuW4\nZBYTn9CIMb9Dncwe+tPlctFs/CRgWltzgQUvZ9xHZ7GVNsdSRamnGgHhAoGAOjW/\nNY9kREGFcWvIxk5U+jqNcBmJFVZ1aNtZaD11cqUuK2MWpdQ21Id3noVohJhEq24n\nDRl3VprI9vP2dtJ7Bs5zh8AnBii/g/ZXcBlqphfbnYrtpAUMHHyUNkAj5BN0j6By\nyfuruB3mOJFeojcZb3YHHqwo7YPvKW0UJOR/jakCgYEAzsh9Xt3BljF0jqiqW+oL\nXLUPK1/ObrTNGy3JiGtRNz/mKK5NxRDxeu4k+d9LR0JLERvvjQSgUV2LSnb+4IVr\nsjyih16bobZaZOwbCDS199H7+a/Xj/yQBI9I0nawLBoV1SqrBZS7dxAhJH+l8e1y\nZWRBZ8Q0q9lXkcHVckkFoto=\n-----END PRIVATE KEY-----\n",
+  "client_email": "micheleusher@friends2-415115.iam.gserviceaccount.com",
+  "client_id": "100984320498236504628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/micheleusher%40friends2-415115.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
